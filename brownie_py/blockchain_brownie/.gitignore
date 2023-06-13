@@ -1,0 +1,8 @@
+__pycache__
+.env
+.history
+.pytest_cache
+.vscode
+.hypothesis/
+build/
+reports/
